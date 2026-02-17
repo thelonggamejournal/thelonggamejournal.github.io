@@ -7,12 +7,5 @@ categories: [foundations, finance]
 tags: [ramsey, budgeting, behavior]
 ---
 
-## The Principle
+## Under construction
 
-## The Mistake Most People Make
-
-## What I’ve Seen / What I Did
-
-## Action Steps
-
-## One Question to Reflect On
