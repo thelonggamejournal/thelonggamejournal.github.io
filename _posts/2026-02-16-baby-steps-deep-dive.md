@@ -10,14 +10,14 @@ But most people only understand the surface.
 
 This is a deeper look at the behavioral and structural logic behind each step.
 
-<iframe src="pdfs/Baby-Steps-2026-02-17.pdf"
+<iframe src="pdfs/Baby-Steps-2026-02-17.pdf?v=1"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
 </iframe>
 
 <p>
-<a href="pdfs/Baby-Steps-2026-02-17.pdf">
+<a href="pdfs/Baby-Steps-2026-02-17.pdf?v=1">
 Download the full PDF
 </a>
 </p>
