@@ -5,4 +5,4 @@ title: Home
 
 Welcome to **The Long Game Journal**.
 
-Practical financial discipline for stability before wealth.
+A practical framework for building stability, eliminating debt, and thinking long-term about money.
