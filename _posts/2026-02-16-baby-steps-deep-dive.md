@@ -10,14 +10,14 @@ But most people only understand the surface.
 
 This is a deeper look at the behavioral and structural logic behind each step.
 
-<iframe src="/pdfs/long-game-baby-steps-deep-dive.pdf"
+<iframe src="/_posts/Baby-Steps-2026-02-17.pdf"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
 </iframe>
 
 <p>
-<a href="Baby-Steps-2026-02-17.pdf">
+<a href="/_posts/Baby-Steps-2026-02-17.pdf">
 Download the full PDF
 </a>
 </p>
