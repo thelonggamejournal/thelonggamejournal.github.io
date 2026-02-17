@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The 7 Baby Steps — Two Levels Deep"
+series: foundations
 categories: [foundations]
 ---
 
