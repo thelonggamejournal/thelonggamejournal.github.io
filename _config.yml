@@ -1,0 +1,7 @@
+title: "The Long Game Journal"
+description: "Practical financial discipline for stability before wealth."
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
