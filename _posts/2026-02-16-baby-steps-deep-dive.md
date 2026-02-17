@@ -10,7 +10,7 @@ But most people only understand the surface.
 
 This is a deeper look at the behavioral and structural logic behind each step.
 
-<iframe src="/pdfs/Baby-Steps-2026-02-17.pdf"
+<iframe src="pdfs/Baby-Steps-2026-02-17.pdf"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
