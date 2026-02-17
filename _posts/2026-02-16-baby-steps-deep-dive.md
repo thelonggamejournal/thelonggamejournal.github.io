@@ -17,7 +17,7 @@ This is a deeper look at the behavioral and structural logic behind each step.
 </iframe>
 
 <p>
-<a href="/pdfs/Baby-Steps-2026-02-17.pdf">
+<a href="pdfs/Baby-Steps-2026-02-17.pdf">
 Download the full PDF
 </a>
 </p>
