@@ -21,4 +21,5 @@ This is a deeper look at the behavioral and structural logic behind each step.
 Download the full PDF
 </a>
 </p>
+
 The Baby Steps framework was created by Dave Ramsey and Ramsey Solutions. This document is an independent educational commentary.
