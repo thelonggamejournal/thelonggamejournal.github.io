@@ -24,3 +24,4 @@ Download the full PDF
 </p>
 The Baby Steps framework was created by Dave Ramsey and Ramsey Solutions. This document is an independent educational commentary.
 
+
