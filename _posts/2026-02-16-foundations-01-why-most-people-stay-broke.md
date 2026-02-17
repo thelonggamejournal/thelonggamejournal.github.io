@@ -9,7 +9,7 @@ tags: [ramsey, budgeting, behavior]
 
 
 This is a list of reasons WHY people with median incomes have issues accruing wealth - determined from research and analysis
-This list focuses on what we CAN control - some things we may not be able to such as Medical Emergencies and Expensis
+This list focuses on what we CAN control - some things we may not be able to such as Medical Emergencies and Expenses...
  
 
 This is a deeper look at the behavioral and structural logic behind each mis step.
@@ -25,5 +25,6 @@ This is a deeper look at the behavioral and structural logic behind each mis ste
 Download the full PDF
 </a>
 </p>
+
 The Baby Steps framework was created by Dave Ramsey and Ramsey Solutions. This document is an independent educational commentary.
 
