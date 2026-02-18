@@ -1,7 +1,7 @@
 ---
 layout: post
 series: fi
-title: "Financial Intelligence"
+title: "Why do some people go broke?"
 lesson: 1
 categories: [fi]
 tags: [ramsey, budgeting, behavior]
