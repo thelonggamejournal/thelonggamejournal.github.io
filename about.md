@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /articles/
+permalink: /about/
 ---
 
 ## The Long Game: About
