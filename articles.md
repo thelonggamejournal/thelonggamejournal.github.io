@@ -4,7 +4,7 @@ title: "Articles and Comments"
 permalink: /articles/
 ---
 
-## The Long Game: Case Stdies
+## The Long Game: Articles
 This is the fountain of knowledge
 
 <ul>
