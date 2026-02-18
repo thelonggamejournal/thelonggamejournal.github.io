@@ -13,3 +13,5 @@ Practical financial discipline for stability before wealth.
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<p><a href="https://thelonggamejournal.github.io/">← Home</a></p>
