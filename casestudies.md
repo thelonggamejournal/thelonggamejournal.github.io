@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Case Studies "
-permalink: /Casestudies/
+permalink: /casestudies/
 ---
 
 ## The Long Game: Case Stdies
