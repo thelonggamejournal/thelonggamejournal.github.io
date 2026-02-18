@@ -8,6 +8,7 @@ plugins:
   
 header_pages:
   - foundations.md
-  - level1.md
+  - articles.md
+  - casestudies.md
   - resources.md
   - about.md
