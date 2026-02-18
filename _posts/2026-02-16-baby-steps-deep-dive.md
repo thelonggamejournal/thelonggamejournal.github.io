@@ -4,6 +4,7 @@ title: "The 7 Baby Steps — Two Levels Deep"
 lesson: 2
 series: Financial-Intelligence
 categories: [Financial-Intelligence]
+tags: [ramsey, budgeting, behavior]
 ---
 
 The Baby Steps framework is widely known.
