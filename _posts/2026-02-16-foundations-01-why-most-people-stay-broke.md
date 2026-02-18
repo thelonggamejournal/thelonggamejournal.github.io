@@ -25,5 +25,8 @@ Download the full PDF
 </a>
 </p>
 
+<p><a href="https://thelonggamejournal.github.io/">← Home</a></p>
+
+
 The Baby Steps framework was created by Dave Ramsey and Ramsey Solutions. This document is an independent educational commentary.
 
