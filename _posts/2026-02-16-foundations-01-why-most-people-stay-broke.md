@@ -1,26 +1,23 @@
 ---
 layout: post
-title: "Case Studies"
-series: casestudies
+title: "Financial Intelligence"
+series: Financial-Intelligence
 lesson: 1
 categories: [foundations, finance]
 tags: [ramsey, budgeting, behavior]
 ---
 
-
-There is hope!
+Why people go broke :(
  
 
- 
-
-<iframe src="https://thelonggamejournal.github.io/pdfs/casestudy01.pdf"
+<iframe src="https://thelonggamejournal.github.io/pdfs/Why-Broke-2026-02-17.pdf"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
 </iframe>
 
 <p>
-<a href="https://thelonggamejournal.github.io/pdfs/casestudy01.pdf">
+<a href="https://thelonggamejournal.github.io/pdfs/Why-Broke-2026-02-17.pdf">
 Download the full PDF
 </a>
 </p>
