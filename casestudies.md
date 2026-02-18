@@ -8,7 +8,7 @@ permalink: /casestudies/
 Here are some success stories for you - there is hope!
 
 <ul>
-  {% assign posts = site.posts | where_exp: "p", "p.series == 'casestudies'" | sort: "lesson" %}
+  {% assign posts = site.posts | where_exp: "p", "p.series == 'cs'" | sort: "lesson" %}
   {% for post in posts %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
