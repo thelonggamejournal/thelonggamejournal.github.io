@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "casestudies "
+title: "Case Studies "
 permalink: /foundations/
 ---
 
