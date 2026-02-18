@@ -2,8 +2,8 @@
 layout: post
 title: "The 7 Baby Steps — Two Levels Deep"
 lesson: 2
-series: Financial-Intelligence
-categories: [Financial-Intelligence]
+series: financial-intelligence
+categories: [financial-intelligence]
 tags: [ramsey, budgeting, behavior]
 ---
 
