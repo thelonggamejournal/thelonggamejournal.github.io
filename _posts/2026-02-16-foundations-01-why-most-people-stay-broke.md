@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Financial Intelligence"
-series: financial-intelligence
+series: fi
 lesson: 1
 categories: [foundations, finance]
 tags: [ramsey, budgeting, behavior]
