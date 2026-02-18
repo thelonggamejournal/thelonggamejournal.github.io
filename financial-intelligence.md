@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Financial-Intelligence"
-permalink: /foundations/
+permalink: /Financial-Intelligence/
 ---
 
 ## The Long Game: Financial-Intelligence
