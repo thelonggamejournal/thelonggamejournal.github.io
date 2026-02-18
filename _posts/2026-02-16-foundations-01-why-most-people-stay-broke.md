@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Most People Stay Broke"
-series: foundations
+series: financial-intelligence
 lesson: 1
 categories: [foundations, finance]
 tags: [ramsey, budgeting, behavior]
