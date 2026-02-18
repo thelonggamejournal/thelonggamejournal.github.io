@@ -1,7 +1,7 @@
 ---
 layout: post
 series: cs
-title: "Case Studies"
+title: "Case Studie 01"
 lesson: 1
 categories: [cs]
 tags: [ramsey, budgeting, behavior]
