@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Book Reviews 2026"
+title: "Book Reviews"
 permalink: /articles/
 ---
 
