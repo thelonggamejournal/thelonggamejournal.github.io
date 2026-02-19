@@ -4,7 +4,7 @@ title: "Book Reviews"
 permalink: /articles/
 ---
 
-## The Long Game: Articles
+## The Long Game: Book Reviews
 I am currently doing the book a week promise. This is the list of books I have read with annotaions for non fiction
 <ul>
   {% assign posts = site.posts | where_exp: "p", "p.series == 'bk'" | sort: "lesson" %}
