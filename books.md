@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Book Reviews"
-permalink: /articles/
+permalink: /books/
 ---
 
 ## The Long Game: Book Reviews
