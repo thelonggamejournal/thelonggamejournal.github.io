@@ -11,7 +11,7 @@ Link to the FAMOUS ramsey baby step overview
  
 <p>
 <a href="https://www.ramseysolutions.com/dave-ramsey-7-baby-steps#bs-1">
-Download the full PDF
+Link to the Dave Ramsey Cornucopia of Knowledge
 </a>
 </p>
 
