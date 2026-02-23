@@ -15,3 +15,5 @@ I’ve made plenty of money mistakes myself. If what I’ve learned can save you
 
 This is a practical framework for building stability, eliminating debt, and thinking long-term about money.
 
+Please check out the tabs above for focused information :)
+
