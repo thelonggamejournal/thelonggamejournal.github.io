@@ -5,7 +5,7 @@ permalink: /articles/
 ---
 
 ## The Long Game: Articles
-This is where interesting articles will go. IT IS NOT POPULATED YET :)
+This is where interesting articles will go. <span style="color:rgb(200,0,0);">Still Under Construction</span>
 
 <ul>
   {% assign posts = site.posts | where_exp: "p", "p.series == 'ar'" | sort: "lesson" %}
