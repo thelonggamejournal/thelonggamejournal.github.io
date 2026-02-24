@@ -5,7 +5,7 @@ permalink: /articles/
 ---
 
 ## The Long Game: Articles
-This is the fountain of knowledge
+This is where interesting articles will go. IT IS NOT POPULATED YET :)
 
 <ul>
   {% assign posts = site.posts | where_exp: "p", "p.series == 'ar'" | sort: "lesson" %}
