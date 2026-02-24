@@ -1,7 +1,7 @@
 ---
 layout: post
 series: rs
-title: "Budegting How To"
+title: "Budgeting How To"
 lesson: 4
 categories: [cs]
 tags: [Ramsey, budgeting, behavior]
