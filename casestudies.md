@@ -5,7 +5,7 @@ permalink: /casestudies/
 ---
 
 ## The Long Game: Case Stdies
-Here are some success stories for you - there is hope!
+Here are some success stories for you - there is hope! BUT THIS AREA IS NOT POPULATED YET
 
 <ul>
   {% assign posts = site.posts | where_exp: "p", "p.series == 'cs'" | sort: "lesson" %}
