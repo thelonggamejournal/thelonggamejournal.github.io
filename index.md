@@ -11,9 +11,11 @@ Most people are doing the best they can with what they were taught.
 Sometimes a second set of eyes and a simple plan make all the difference.
 
 That’s what I’m here for.
-I’ve made plenty of money mistakes myself. If what I’ve learned can save you time, stress, or money, I’m happy to help.
 
-This is a practical framework for building stability, eliminating debt, and thinking long-term about money.
+<span style="color:red;">I’ve made plenty of money mistakes myself. If what I’ve learned can save you time, stress, or money, I’m happy to help.</span>
 
-Please check out the tabs above for focused information :)
+The Long Game Journal will leverage Ramsey best practices to create a practical framework for:
+   Building stability, 
+   Eliminating debt, and 
+   Thinking long-term about money.
 
