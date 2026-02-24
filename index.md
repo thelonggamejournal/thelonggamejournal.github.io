@@ -15,7 +15,7 @@ That’s what I’m here for.
 <span style="color:rgb(200,0,0);">I’ve made plenty of money mistakes myself. If what I’ve learned can save you time, stress, or money, I’m happy to help.</span>
 
 The Long Game Journal will leverage Ramsey best practices to create a practical framework for:
-   Building stability, 
-   Eliminating debt, and 
-   Thinking long-term about money.
+<br>   Building stability, 
+<br>   Eliminating debt, and 
+<br>   Thinking long-term about money.
 
