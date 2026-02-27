@@ -13,14 +13,14 @@ There is hope!
 
  
 
-<iframe src="https://thelonggamejournal.github.io/pdfs/national-study-of-millioinaire-new.pdf"
+<iframe src="https://thelonggamejournal.github.io/pdfs/national-study-of-millionaire-new.pdf"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
 </iframe>
 
 <p>
-<a href="https://thelonggamejournal.github.io/pdfs/national-study-of-millioinaire-new.pdf">
+<a href="https://thelonggamejournal.github.io/pdfs/national-study-of-millionaire-new.pdf">
 Download the full PDF
 </a>
 </p>
