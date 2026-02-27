@@ -5,7 +5,7 @@ permalink: /casestudies/
 ---
 
 ## The Long Game: Case Stdies
-Here are some success stories for you - there is hope! <span style="color:rgb(200,0,0);">Still Under Construction</span>
+Here are some success stories for you - there is hope!
 
 <ul>
   {% assign posts = site.posts | where_exp: "p", "p.series == 'cs'" | sort: "lesson" %}
