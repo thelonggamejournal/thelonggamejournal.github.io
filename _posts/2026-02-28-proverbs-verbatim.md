@@ -10,14 +10,14 @@ tags: [ramsey, budgeting, behavior]
 
 Proverbs verbatime ch 1:4 encoded to date.
 
-<iframe src="https://thelonggamejournal.github.io/pdfs/proverbs-verbatim.pdf"
+<iframe src="https://thelonggamejournal.github.io/pdfs/proverb-mega-file.pdf"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
 </iframe>
 
 <p>
-<a href="https://thelonggamejournal.github.io/pdfs/proverbs-verbatim.pdf">
+<a href="https://thelonggamejournal.github.io/pdfsproverb-mega-file.pdf">
 Download the full PDF
 </a>
 </p>
