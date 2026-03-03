@@ -8,7 +8,7 @@ tags: [ramsey, budgeting, behavior]
 ---
 
 
-Proverbs verbatime ch 1:4 encoded to date.
+All 31 proverbs in their entirety
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/proverb-mega-file.pdf"
         width="100%"
