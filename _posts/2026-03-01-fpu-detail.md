@@ -34,7 +34,7 @@ Lesson 3 - Build an Emergency Fund
 
 </p>
 
-Lesson 4
+Lesson 4 - Building Wealth for Retirement
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson4.pdf"
         width="100%"
@@ -42,7 +42,7 @@ Lesson 4
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 5
+Lesson 5 - Wise Spnding (The SMART Method)
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson5.pdf"
         width="100%"
