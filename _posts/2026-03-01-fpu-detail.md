@@ -46,7 +46,7 @@ tags: [ramsey, budgeting, behavior]
 </iframe>
 
 <br><br><br><br>
-<br><br>Lesson 5 - Wise Spnding (The SMART Method)
+<br><br>Lesson 5 - Wise Spending (The SMART Method)
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson5.pdf"
         width="100%"
