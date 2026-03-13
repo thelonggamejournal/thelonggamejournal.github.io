@@ -18,4 +18,6 @@ The Long Game Journal will leverage Ramsey best practices to create a practical 
 <br> ***   Building stability, 
 <br> ***   Eliminating debt, and 
 <br> ***   Thinking long-term about money.
-
+<br><br>
+<b> The first financial intelligence meeting will occur March 18 @ 6:40PM Contact Steve if interested </b>
+<br>
