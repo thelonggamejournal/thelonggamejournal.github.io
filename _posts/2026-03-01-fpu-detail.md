@@ -8,7 +8,7 @@ tags: [ramsey, budgeting, behavior]
 ---
 
 
-Lesson 1 - About the Baby Steps and Budgeting
+<br><br>Lesson 1 - About the Baby Steps and Budgeting
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson1.pdf"
         width="100%"
@@ -16,7 +16,7 @@ Lesson 1 - About the Baby Steps and Budgeting
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 2 - Pay Off Debt
+<br><br>Lesson 2 - Pay Off Debt
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson2.pdf"
         width="100%"
@@ -24,7 +24,7 @@ Lesson 2 - Pay Off Debt
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 3 - Build an Emergency Fund
+<br><br>Lesson 3 - Build an Emergency Fund
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson3.pdf"
         width="100%"
@@ -34,7 +34,7 @@ Lesson 3 - Build an Emergency Fund
 
 </p>
 
-Lesson 4 - Building Wealth for Retirement
+<br><br>Lesson 4 - Building Wealth for Retirement, Affoding College
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson4.pdf"
         width="100%"
@@ -42,7 +42,7 @@ Lesson 4 - Building Wealth for Retirement
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 5 - Wise Spnding (The SMART Method)
+<br><br>Lesson 5 - Wise Spnding (The SMART Method)
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson5.pdf"
         width="100%"
@@ -50,7 +50,7 @@ Lesson 5 - Wise Spnding (The SMART Method)
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 6 - Understanding Insurance (A great cost saver)
+<br><br>Lesson 6 - Understanding Insurance (A great cost saver)
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson6.pdf"
         width="100%"
@@ -58,7 +58,7 @@ Lesson 6 - Understanding Insurance (A great cost saver)
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 7 - Building Wealth
+<br><br>Lesson 7 - Building Wealth
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson7.pdf"
         width="100%"
@@ -66,7 +66,7 @@ Lesson 7 - Building Wealth
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 8
+<br><br>Lesson 8 - Buying and Selling a Home
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson8.pdf"
         width="100%"
@@ -74,7 +74,7 @@ Lesson 8
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 9
+<br><br>Lesson 9 - Outrageous Generosity
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson9.pdf"
         width="100%"
