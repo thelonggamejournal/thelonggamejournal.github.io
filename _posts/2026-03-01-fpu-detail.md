@@ -8,7 +8,7 @@ tags: [ramsey, budgeting, behavior]
 ---
 
 
-Lesson 1
+Lesson 1 - About the Baby Steps and Budgeting
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson1.pdf"
         width="100%"
@@ -16,7 +16,7 @@ Lesson 1
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 2
+Lesson 2 - Pay Off Debt
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson2.pdf"
         width="100%"
@@ -24,7 +24,7 @@ Lesson 2
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 3
+Lesson 3 - Build an Emergency Fund
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson3.pdf"
         width="100%"
