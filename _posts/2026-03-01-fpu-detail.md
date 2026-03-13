@@ -50,7 +50,7 @@ Lesson 5 - Wise Spnding (The SMART Method)
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 6
+Lesson 6 - Understanding Insurance (A great cost saver)
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson6.pdf"
         width="100%"
@@ -58,7 +58,7 @@ Lesson 6
         style="border:1px solid #ccc;">
 </iframe>
 
-Lesson 7
+Lesson 7 - Building Wealth
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/key-takeaway-lesson7.pdf"
         width="100%"
