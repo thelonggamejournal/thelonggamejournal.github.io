@@ -6,7 +6,7 @@ lesson: 5
 categories: [cs]
 tags: [cramer, budgeting, behavior]
 ---
-<br>DONT DO IT - Unless:
+<br><b>DONT DO IT </b>- Unless:
 <br>You have to enjoy learning how to invest by taking or learning finance.
 <br>You have to enjoy numbers metrics and ratios.
 <br>You have to spend one hour per week per stock you want to work with.
@@ -18,7 +18,7 @@ tags: [cramer, budgeting, behavior]
 <br>
 <br>There will be more here --- 
 <br>
-</p>
+
 
 <p><a href="https://thelonggamejournal.github.io/">← Home</a></p>
 
