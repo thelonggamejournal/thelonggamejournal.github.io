@@ -34,7 +34,7 @@ tags: [ramsey, budgeting, behavior]
         style="border:1px solid #ccc;">
 </iframe>
 
-</p>
+ 
 
 <br><br><br><br>
 <br><br>Lesson 4 - Building Wealth for Retirement, Affoding College
