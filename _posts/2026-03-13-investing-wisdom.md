@@ -19,6 +19,11 @@ tags: [cramer, budgeting, behavior]
 <br>There will be more here --- 
 <br>
 
+<br>EYEBALLING
+<br>DAL   Delta Air Lines ---- Customer Loyalty - Solida financials - Buy at 55?
+<br>UBSI  United Bank Shares - Dividend King                        - Buy at 35?
+<br>USAR/MP Rare earth Plays
+<br>
 
 <p><a href="https://thelonggamejournal.github.io/">← Home</a></p>
 
