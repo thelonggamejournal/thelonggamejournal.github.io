@@ -7,10 +7,7 @@ categories: [cs]
 tags: [ramsey, budgeting, behavior]
 ---
 
-
-There is hope!
- 
-
+A good read! But readit twice
  
 
 <iframe src="https://thelonggamejournal.github.io/pdfs/CramerReview.pdf"
