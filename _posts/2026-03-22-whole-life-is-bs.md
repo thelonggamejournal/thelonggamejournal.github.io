@@ -14,14 +14,14 @@ tags: [ramsey, budgeting, behavior]
 
  
 
-<iframe src="https://thelonggamejournal.github.io/pdfs/Whole-life-is-bs.pdf"
+<iframe src="https://thelonggamejournal.github.io/pdfs/whole-life-is-bs.pdf"
         width="100%"
         height="900"
         style="border:1px solid #ccc;">
 </iframe>
 
 <p>
-<a href="https://thelonggamejournal.github.io/pdfs/Whole-life-is-bs.pdf">
+<a href="https://thelonggamejournal.github.io/pdfs/whole-life-is-bs.pdf">
 Download the full PDF
 </a>
 </p>
