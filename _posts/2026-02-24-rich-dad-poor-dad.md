@@ -1,8 +1,8 @@
 ---
 layout: post
-series: fi
-title: "Review of Rich Dad Poor Dad"
-lesson: 4
+series: bk
+title: "Book 02 - Review of Rich Dad Poor Dad"
+lesson: 102
 categories: [cs]
 tags: [ramsey, budgeting, behavior]
 ---
