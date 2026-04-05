@@ -1,8 +1,8 @@
 ---
 layout: post
 series: bk
-title: "Review of Book 16 Jim Cramers Real Money"
-lesson: 16
+title: "Book 16 Jim Cramers Real Money"
+lesson: 116
 categories: [cs]
 tags: [ramsey, budgeting, behavior]
 ---
